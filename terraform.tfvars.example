@@ -1,0 +1,8 @@
+# =====================================================
+# terraform.tfvars — Yahan apni details bharo
+# Git mein KABHI mat daalo!
+# =====================================================
+
+okta_org_name  = "dev-123456"     # <- Apna Okta subdomain
+okta_base_url  = "okta.com"       # ya "oktapreview.com"
+okta_api_token = "00XXXXXXXXXXXX" # <- Admin Console > Security > API > Tokens
